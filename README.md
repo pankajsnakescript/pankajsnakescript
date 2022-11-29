@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @pankajsharma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Multiple Language 
+- 💬 Ask me about Python and Django
+- 📫 How to reach me pankajpanditshar@gmail.com
+- 💞️ I’m looking to collaborate on ..
 
 <!---
 pankajsnakescript/pankajsnakescript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
